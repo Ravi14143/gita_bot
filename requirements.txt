@@ -1,0 +1,18 @@
+# Basic utilities
+tqdm
+PyPDF2
+
+# Text splitting and embedding
+langchain
+sentence-transformers
+
+# Vector store (CPU version for compatibility)
+faiss-cpu
+
+# Open-source LLM and transformers
+transformers
+accelerate
+torch
+
+# Optional: if GPU is available and you want speed-up
+# faiss-gpu
